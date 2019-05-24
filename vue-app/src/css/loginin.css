@@ -1,0 +1,40 @@
+.positionabsolute1{
+    top: 30%;
+    left: 5%;
+}
+.fontszie{
+    font-size: .5rem;
+}
+.bgblack{
+    background: rgba(0,0,0,.3);
+}
+.textcolor1:hover{
+    color:#f65c60;
+}
+.spanblock{
+    height: 1px !important;
+    background: #fff;
+    margin-top: 1.5%;
+}
+.textcolor3{
+    color: #fff;
+}
+.textcolor3:hover{
+    color:#f65c60;
+    text-decoration: none;
+}
+@media (max-width: 992px) {
+    .h4acol {
+        text-align: left !important;
+    }
+}
+.footerbgcolor{
+    background: #f9f9f9;
+}
+.textcolor4{
+    color: #000;
+}
+.textcolor4:hover{
+    color: #000;
+    text-decoration: none;
+}

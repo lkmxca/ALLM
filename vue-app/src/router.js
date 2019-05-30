@@ -19,7 +19,7 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
-    {path:'/',component:HelloContainer},
+    {path:'/',component:Home},
     {path:'/Muban',component:Muban},
     {path:'/Home',component:Home},
     {path:'/Story',component:Story},
